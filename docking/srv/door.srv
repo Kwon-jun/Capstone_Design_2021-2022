@@ -1,0 +1,5 @@
+bool door_start
+
+---
+
+bool door_done

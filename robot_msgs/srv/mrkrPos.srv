@@ -1,0 +1,8 @@
+---
+float64 trn_x
+float64 trn_y
+float64 trn_z
+float64 rot_x
+float64 rot_y
+float64 rot_z
+bool is_pos_return

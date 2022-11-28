@@ -1,0 +1,22 @@
+<launch>
+
+  <!-- ROBOT BRINGUP -->
+
+
+
+  <!-- ROBOT NAVIGATION -->
+  <include file="$(find omo_r1_navigation)/launch/omo_r1_navigation.launch"/>
+
+
+  <!-- launching rviz node -->
+  <include file="$(find omo_r1_navigation)/launch/omo_r1_navigation_rviz.launch"/>
+
+
+
+</launch>
+
+
+
+
+
+

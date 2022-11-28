@@ -1,0 +1,3 @@
+int32 goal_num
+---
+bool nav_ok
